@@ -71,6 +71,7 @@ Sayfaya yeni kaynak eklemek için:
 * [MARVEL: A Large-Scale Image Dataset for Maritime Vessels](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_11) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
 
 ### Türkçe Doğal Dil İşleme
+* [A Morphology-aware Network for Morphological Disambiguation](https://arxiv.org/pdf/1702.03654.pdf) (Eray Yıldız, Çağlar Tırkaz, H. Bahadır Şahin, Mustafa Tolga Eren, Ozan Sönmez)
 * [Linguistic Features in Turkish Word Representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
 * [Morphological Embeddings for Named Entity Recognition in Morphologically Rich Languages](https://arxiv.org/abs/1706.00506) (Onur Güngör, Eray Yıldız, Suzan Üsküdarlı, Tunga Güngör)
 
@@ -86,6 +87,7 @@ Sayfaya yeni kaynak eklemek için:
 
 ## VERİSETLERİ
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
+* [English/Turkish Wikipedia Named-Entity Recognition and Text Categorization Dataset](https://data.mendeley.com/datasets/cdcztymf4k/1) (H. Bahadır Şahin, Çağlar Tırkaz, Eray Yıldız, Mustafa Tolga Eren, Ozan Sönmez)
 
 ## VİDEO DERSLER
 ### Genel
